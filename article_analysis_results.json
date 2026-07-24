@@ -1,0 +1,148 @@
+[
+  {
+    "article_id": "269c87c5507bfdc62a4443cc",
+    "title": null,
+    "date": "2025-07-14T00:00:00",
+    "url": null,
+    "status": "completed",
+    "stocks": []
+  },
+  {
+    "article_id": "dd6e148b31664f7816df3faf",
+    "title": null,
+    "date": "2025-07-14T00:00:00",
+    "url": null,
+    "status": "completed",
+    "stocks": []
+  },
+  {
+    "article_id": "a9b3d8221edca4d595100ce8",
+    "title": null,
+    "date": "2025-07-14T00:00:00",
+    "url": null,
+    "status": "completed",
+    "stocks": [
+      {
+        "ticker": "SMGR",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "BREN",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "PGEO",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "INCO",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "INDF",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "INKP",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "KLBF",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "MNCN",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "ASII",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "AUTO",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "BBTN",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      },
+      {
+        "ticker": "PTBA",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "IHSG Awal Pekan Bakal Bertahan di Level 7.000? Simak Analisis dan Rekomendasi Saham Senin"
+      }
+    ]
+  },
+  {
+    "article_id": "17007fc9710e52d4270b45a3",
+    "title": null,
+    "date": "2025-07-14T00:00:00",
+    "url": null,
+    "status": "completed",
+    "stocks": [
+      {
+        "ticker": "BMRI",
+        "relevance": 1.0,
+        "sentiment_score": 0.5,
+        "confidence": 0.75,
+        "date": "2025-07-14T00:00:00",
+        "headline": "Tabel Angsuran KUR Mandiri 2025, Cicilan Rp 10 Juta-Rp 500 Juta"
+      }
+    ]
+  },
+  {
+    "article_id": "e08dee840f83e57e624b8bbc",
+    "title": null,
+    "date": "2025-07-14T00:00:00",
+    "url": null,
+    "status": "completed",
+    "stocks": []
+  }
+]
